@@ -1,0 +1,12 @@
+.footerContainer {
+  background-color: #f55a5a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.footerTitle {
+  margin: 0;
+  font-weight: 400;
+}
